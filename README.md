@@ -62,7 +62,7 @@ I have learned many things from this challange like using different Js library a
 
 ### Useful resources
 
-- ([elf](https://ngneat.github.io/elf/)) - There are many libs for state management, but Elf have a good point than other.It's independent, no bind to FW, you can use everywhere. Share the same class to many projects.
+- [elf](https://ngneat.github.io/elf/) - There are many libs for state management, but Elf have a good point than other.It's independent, no bind to FW, you can use everywhere. Share the same class to many projects.
 
 - [tailwindcss](https://tailwindui.com/)- This helped me for styling reason.Tailwind CSS is basically a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 
