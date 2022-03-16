@@ -36,7 +36,7 @@ Users should be able to:
  
 ### Screenshot
 
-![](https://github.com/PrajwalSH19/react-todo-project/blob/main/public/Screenshot todo app.png)
+![](https://github.com/PrajwalSH19/react-todo-project/blob/main/public/Screenshot-todoapp.png)
 
 ### Links
 
